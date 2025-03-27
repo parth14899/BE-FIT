@@ -1,0 +1,44 @@
+# Ignore user-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-*/ 
+[Dd]ebug/**/
+[Dd]ebug-*/**
+[Dd]istro/
+bin/
+obj/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Android
+.gradle/
+local.properties
+*.apk
+*.ap_
+build/
+
+# iOS
+*.ipa
+*.dSYM/
+*.mobileprovision
+*.xcodeproj/
+*.xcworkspace/
+
+# Firebase specific
+firebase-debug.log
